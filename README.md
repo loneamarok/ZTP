@@ -9,3 +9,5 @@ and numerous steps on the bar.
 How it looks:
 
 ![image](https://user-images.githubusercontent.com/40759970/106475658-30d05e00-64cc-11eb-8a2f-b2989e317e61.png)
+
+![image](https://user-images.githubusercontent.com/40759970/106475727-46458800-64cc-11eb-99d1-5735ee1a52f8.png)
